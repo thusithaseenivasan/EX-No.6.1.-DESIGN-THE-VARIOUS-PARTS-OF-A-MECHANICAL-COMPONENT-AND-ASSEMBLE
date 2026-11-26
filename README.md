@@ -1,6 +1,6 @@
 # EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
-## DATE:
+## DATE:24-11-2026
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -25,44 +25,32 @@ The inserted elements update with changes to the original design
 Select the objects to modify then specify the distance or angle. Use set pivot to reposition the manipulator
 
 ## PROCEDURE:
-### STEP 1: 
- Identifying the given model.
 
-### STEP 2: Importing the components.
-Firstly, we import all the necessary parts into the assembly project. Here, we use Finger, gear linkage, Secondary Linkage, Base. For, Importing the components into the project, we use the insert derive option in the Insert>Insert Derive.
+1.Identify the model.
 
-### STEP 3: 
-We place the base model onto the X-Y plane.
+2.Import all required components.
 
-### STEP 4: Aligning the components
-Then we align the imported, Gear linkage model, in its respective slot of the base.
-For aligning the component onto the base, we use the align option, available in Modify>Align.
-For aligning the component onto the base, we first select the “from” coordinates then we select the “To” coordinates in the given base model. At first, the model might not align properly, so, we use the flip option to bring the component to the desired position.
+3.Place the base model on the x-y plane.
 
-### STEP 5: 
-We follow the same steps for aligning the components onto their respective      slots on the base component.
+<img width="188" height="190" alt="image" src="https://github.com/user-attachments/assets/ade7b7af-dfab-432b-873f-e9903b055ac3" />
 
-### Note: 
-If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
+4.Align the gear linkage with the base.
+
+5.Use the Flip option if needed.
+
+6.Repeat the same process for other components.
+
+7.Place all components in their correct slots.
+
+8.Use the Move option if any component needs adjustment.
+
 
 ## INPUT: 
 
-#### LINKAGE
-![image](https://user-images.githubusercontent.com/113594316/199413513-8fa5b9db-0546-49d0-ad4c-230b22984d3c.png)
-
-#### BASE PLATE  
-![image](https://user-images.githubusercontent.com/113594316/199413545-3b2fd515-6e27-4d28-9da3-c9ce20cb2a42.png)
-
-#### GEAR LINKAGE
-![image](https://user-images.githubusercontent.com/113594316/199413566-05708531-fc78-44c9-ab98-4f8a9066d318.png)
-
-#### FINGER
-![image](https://user-images.githubusercontent.com/113594316/199413594-5de9578e-5800-4e69-8c76-6a5749e31805.png)
-
-#### ASSEMBLED VIEW
-![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
+<img width="911" height="640" alt="Screenshot 2026-11-26 084151" src="https://github.com/user-attachments/assets/033cc5a8-d0b8-499e-9063-32e7860e16cf" />
 
 ## OUTPUT:
+<img width="553" height="363" alt="image" src="https://github.com/user-attachments/assets/54862159-82ce-4ee5-8f6a-23f6cb24597f" />
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
